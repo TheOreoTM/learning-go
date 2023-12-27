@@ -4,5 +4,9 @@ import "fmt"
 
 func main() {
 	myBill := newBill("Marios bill")
-	fmt.Println(myBill)
+
+	myBill.updateTip(10)
+	myBill.addItem("hot tub", 300)
+
+	fmt.Println(myBill.format())
 }
