@@ -1,0 +1,9 @@
+Bill breakdown: 
+
+fish:                     ...$12.99 
+cheese:                   ...$13.45 
+coffee:                   ...$2.99 
+ice cream:                ...$8.99 
+
+tip:                      ...$5.99
+total:                    ...$38.42
